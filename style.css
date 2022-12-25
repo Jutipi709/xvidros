@@ -1,0 +1,19 @@
+body{
+    background-color: #161616;
+    overflow: hidden;
+}
+
+.vidro
+{
+    margin-left: 300px;
+    margin-top:42px;
+    width: 921px;
+    height: 634px;
+}
+
+.xvidrosAA{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-left: 630px;;
+    margin-top:50px;
+}
